@@ -16,7 +16,7 @@ function safeGetName() {
 		return $STATS[0];
 	}
 }
-if (safeGetName() == 'admin') {
+if (verifyAdmin()) {
 	echo '<br /><a href="app/tools/edit_tos.php">Edit</a>';
 }
 ?>
