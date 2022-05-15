@@ -1,5 +1,6 @@
 {
   "name":"nodb-forum-tos-edit",
   "description":"Adds an 'edit' link to the Terms of Service",
-  "url":"https://github.com/weeklyd3/nodb-forum-tos-edit"
+  "url":"https://github.com/weeklyd3/nodb-forum-tos-edit",
+  "version": "1.0.0"
 }
